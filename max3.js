@@ -6,6 +6,7 @@
  * @param {number} c is 3rd number
  * @return {number} largest
  */
+
 function max3(a, b, c) {
     if (a >= b && b >= c) {
         return a;
